@@ -54,3 +54,6 @@
 
 ![image](https://user-images.githubusercontent.com/104313537/224200071-5247f7b2-3829-4c97-b8b8-c69164ea949a.png)
 
+<h3>пример запроса для вывода информации о съемочной команде(кроме актеров и дубляжа)</h3>
+
+![image](https://user-images.githubusercontent.com/104313537/224400971-98fcf031-0c6a-436c-8c4d-f62c08248173.png)
