@@ -29,6 +29,9 @@
 
 ![image](https://user-images.githubusercontent.com/104313537/224205231-74dd07bb-7bfc-4d99-be58-a6d5f677e28f.png)
 
+![image](https://user-images.githubusercontent.com/104313537/224556060-4f2e88ea-e431-47ed-aee6-31cc8dd22b2f.png)
+
+
 <h3>:green_circle: role:</h3>
 <h4>Хранит профессию участника команды. Каждое значение уникально. Пример заполнения:</h4>
 
@@ -47,6 +50,9 @@
 
 ![image](https://user-images.githubusercontent.com/104313537/224202955-fe6a32c1-93f0-4816-8f36-994a1047c8f4.png)
 
+![image](https://user-images.githubusercontent.com/104313537/224554039-c3bc98e8-3f45-47f1-850a-5716e67639cb.png)
+
+
 
 <h3>:red_circle: film:</h3>
 <h4>:black_medium_small_square: поля artist_id, composer_id, country_id, director_id, editor_id, operator_id, producer_id, screenwriter_id ссылаются на таблицу person напрямую, реализуя связь один ко многим, актеры и дубляж будут храниться в отдельной таблице для связи многие ко многим.</h4>
@@ -57,3 +63,5 @@
 <h3>пример запроса для вывода информации о съемочной команде(кроме актеров и дубляжа)</h3>
 
 ![image](https://user-images.githubusercontent.com/104313537/224400971-98fcf031-0c6a-436c-8c4d-f62c08248173.png)
+
+<h3>P.S. <h4>Выглядит запутанно, наверное можно попроще, но я пока не освоил достаточно этот инструмент</h4></h3>
